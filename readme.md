@@ -6,7 +6,7 @@
 
 3. Make sure that you have Python 3.x installed. You can check your Python version by running `python --version` in your terminal.
 
-4. Install the necessary Python libraries. You can do this by running `pip install pandas scikit-learn` in your terminal.
+4. Install the necessary Python libraries. You can do this by running `pip install numpy pandas scikit-learn scipy matplotlib seaborn` in your terminal.
 
 5. Execute the preprocessing Jupyter notebook. This will save the train-test split in your current directory as CSV files. The command to run the notebook is `jupyter notebook preprocessing.ipynb`.
 
